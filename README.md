@@ -1,9 +1,13 @@
 👋 Bem vindo 👋
 
 🤔 Explorando novas tecnologias e desenvolvendo soluções.
+
 🎓Analise e Desenvolvimento  - UNIP.
+
 😊 Posso te ajudar com HTML, CSS e JS
+
 💼 REDE NASCIONAL DE ENSINO E PESQUISA 
+
 🌱 ReactJs.
 
 Minhas Skills:
