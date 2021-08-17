@@ -4,8 +4,6 @@
 
 🎓Analise e Desenvolvimento  - UNIP.
 
-😊 Posso te ajudar com HTML, CSS e JS
-
 💼 REDE NASCIONAL DE ENSINO E PESQUISA 
 
 🌱 ReactJs.
