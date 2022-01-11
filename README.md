@@ -1,17 +1,7 @@
-👋 Bem vindo 👋
-
-🤔 Explorando novas tecnologias e desenvolvendo soluções.
-
-🎓Analise e Desenvolvimento  - UNIP.
-
-💼 REDE NASCIONAL DE ENSINO E PESQUISA 
-
-🌱 ReactJs.
-
-Minhas Skills:
-
-💼 Minhas Stack: HTML, CSS, JavaScript, Git e PHP
-
-💼 Ferramentas de Desenvolvimento: Visual Studio Code e Git.
-
-https://www.instagram.com/walisson_valle/
+<h1>Hi I´m Walisson.cod</h1>
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalissonRED&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalissonRED&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
