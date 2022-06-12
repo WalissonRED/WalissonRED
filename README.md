@@ -9,4 +9,4 @@
    <a href=""><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" class="media-object  img-responsive img-thumbnail"></a>
       <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
          <a href=""><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" class="media-object  img-responsive img-thumbnail"></a>
-           <a href=""><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" class="media-object  img-responsive img-                 thumbnail"></a>
+           <a href=""><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" class="media-object  img-responsive img-                  thumbnail"></a>
